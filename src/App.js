@@ -24,7 +24,7 @@ function App() {
 					<Grid.Column>
 						<Header icon>
 							<Icon name="search" />
-							Cari documnet
+							Cari document
 						</Header>
 						<Search placeholder="Search document..."></Search>
 					</Grid.Column>
